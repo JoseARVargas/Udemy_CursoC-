@@ -31,6 +31,8 @@ namespace Cap7_Topicos_Especiais
             Console.WriteLine("LastIndexOf: " + n2);
             Console.WriteLine("Substring: - " + s4);
             Console.WriteLine("Replace (a,x): - " + s5);
+
+            Console.WriteLine("Bom dia a vcs!!!!");
         }
     }
 }
