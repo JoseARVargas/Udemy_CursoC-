@@ -33,6 +33,10 @@ namespace Cap7_Topicos_Especiais
             Console.WriteLine("Replace (a,x): - " + s5);
 
             Console.WriteLine("Bom dia a vcs!!!!");
+
+            Console.WriteLine("Outra mensagem!");
+
+            Console.WriteLine("Terceira mensagem!");
         }
     }
 }
