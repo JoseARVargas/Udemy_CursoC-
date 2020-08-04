@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap6_Memoria_Arrays_Listas"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap7_Topicos_Especiais", "Cap7_Topicos_Especiais\Cap7_Topicos_Especiais.csproj", "{6CD58383-F2D8-4025-A7D1-8249041E2581}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap9_Enum_Composicoes", "Cap9_Enum_Composicoes\Cap9_Enum_Composicoes.csproj", "{3A03AAE8-4BC1-4DBF-A85F-0397DF82211F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap9_Composicoes_Exercicio_01", "Cap9_Composicoes_Exercicio_01\Cap9_Composicoes_Exercicio_01.csproj", "{C2BE4AD1-C040-4848-AFF0-8246C5AF86A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6CD58383-F2D8-4025-A7D1-8249041E2581}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CD58383-F2D8-4025-A7D1-8249041E2581}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CD58383-F2D8-4025-A7D1-8249041E2581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A03AAE8-4BC1-4DBF-A85F-0397DF82211F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A03AAE8-4BC1-4DBF-A85F-0397DF82211F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A03AAE8-4BC1-4DBF-A85F-0397DF82211F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A03AAE8-4BC1-4DBF-A85F-0397DF82211F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BE4AD1-C040-4848-AFF0-8246C5AF86A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BE4AD1-C040-4848-AFF0-8246C5AF86A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BE4AD1-C040-4848-AFF0-8246C5AF86A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BE4AD1-C040-4848-AFF0-8246C5AF86A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
