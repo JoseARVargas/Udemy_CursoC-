@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap9_Enum_Composicoes", "Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap9_Composicoes_Exercicio_01", "Cap9_Composicoes_Exercicio_01\Cap9_Composicoes_Exercicio_01.csproj", "{C2BE4AD1-C040-4848-AFF0-8246C5AF86A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap9_Exercicio_02_StringBuilder", "Cap9_Exercicio_02_StringBuilder\Cap9_Exercicio_02_StringBuilder.csproj", "{D1176288-868D-46FD-A102-6CD6987086C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap9_Exercicio03_Enum_Composicoes", "Cap9_Exercicio03_Enum_Composicoes\Cap9_Exercicio03_Enum_Composicoes.csproj", "{5E93AADA-99B9-412B-A212-EB27CE67EA30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{C2BE4AD1-C040-4848-AFF0-8246C5AF86A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2BE4AD1-C040-4848-AFF0-8246C5AF86A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2BE4AD1-C040-4848-AFF0-8246C5AF86A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1176288-868D-46FD-A102-6CD6987086C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1176288-868D-46FD-A102-6CD6987086C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1176288-868D-46FD-A102-6CD6987086C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1176288-868D-46FD-A102-6CD6987086C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E93AADA-99B9-412B-A212-EB27CE67EA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E93AADA-99B9-412B-A212-EB27CE67EA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E93AADA-99B9-412B-A212-EB27CE67EA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E93AADA-99B9-412B-A212-EB27CE67EA30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
